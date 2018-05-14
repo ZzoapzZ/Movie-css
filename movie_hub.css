@@ -2009,10 +2009,6 @@ text-align:center;
 
 }
 @media only screen and (max-width: 1023px) {
-
-#nav1 {
-display: none;
-}
 .selectnav {
 width: auto;
 color: #fff;
